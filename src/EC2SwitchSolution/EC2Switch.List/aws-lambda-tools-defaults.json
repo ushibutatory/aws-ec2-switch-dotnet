@@ -12,5 +12,5 @@
   "function-runtime": "dotnetcore2.1",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "EC2Switch.Off::EC2Switch.Off.Function::FunctionHandler"
+  "function-handler": "EC2Switch.List::EC2Switch.List.Function::FunctionHandler"
 }
